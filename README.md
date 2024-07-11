@@ -1,7 +1,7 @@
 ## Tip Calculator
 
 ### Project Overview:
-Tip Calculator is a sleek and efficient web application designed to simplify the process of calculating tips. 
+Tip Calculator is a sleek and efficient webpage designed to simplify the process of calculating tips. 
 Developed using HTML, CSS, and JavaScript, this responsive webpage allows users to effortlessly input their bill amount and desired tip percentage to receive instant 
 calculations for the tip amount and total bill. This project highlights fundamental web development skills and the ability to create interactive, user-friendly interfaces.
 
