@@ -1,7 +1,7 @@
 ## Tip Calculator
 
 ### Project Overview:
-TipMaster is a sleek and efficient web application designed to simplify the process of calculating tips. 
+Tip Calculator is a sleek and efficient web application designed to simplify the process of calculating tips. 
 Developed using HTML, CSS, and JavaScript, this responsive webpage allows users to effortlessly input their bill amount and desired tip percentage to receive instant 
 calculations for the tip amount and total bill. This project highlights fundamental web development skills and the ability to create interactive, user-friendly interfaces.
 
@@ -28,9 +28,9 @@ calculations for the tip amount and total bill. This project highlights fundamen
 - **JavaScript:** Implemented functionality to handle user inputs, perform real-time calculations, and update the user interface dynamically.
 
 ### User Experience:
-TipMaster offers a seamless and straightforward experience for users, providing instant feedback and accurate calculations for tips and total bills. 
+Tip Calculator offers a seamless and straightforward experience for users, providing instant feedback and accurate calculations for tips and total bills. 
 The responsive design ensures accessibility and usability across all devices, making it a reliable tool for any dining situation.
 
 ### Conclusion:
-The TipMaster project showcases proficiency in front-end web development using HTML, CSS, and JavaScript. 
+The Tip Calculator project showcases proficiency in front-end web development using HTML, CSS, and JavaScript. 
 It demonstrates the ability to create a functional, responsive, and user-friendly application that addresses a practical need, enhancing the user's dining experience.
