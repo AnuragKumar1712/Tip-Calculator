@@ -1,4 +1,4 @@
-** Tip Calculator **
+**Tip Calculator**
 
 **Project Overview:**
 TipMaster is a sleek and efficient web application designed to simplify the process of calculating tips. 
